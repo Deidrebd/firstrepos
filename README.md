@@ -1,2 +1,5 @@
 # firstrepos
-Its a Markdown file in the repository
+
+## Editing the file
+
+Its a Markdown file in this repository.
